@@ -1,4 +1,4 @@
-### Abdallah Ragued
+### Abdallah
 
 Pharmacometrics and health data science. Master's in pharmacokinetic modelling at Université Paris Cité (PBPK, PK/PD, population PK), after a Master's in health data science at Université Paris-Saclay (biostatistics, machine learning, causal inference). Looking for a PhD at the meeting point of DMPK and AI.
 
